@@ -1,5 +1,5 @@
 
-# Instalacion y configuracion inicial:
+# Instalacion y configuracin inicial:
 
 * [ ] Confirma que tengas `git` en tu maquina.
 * [ ] Nos dirigimos a la pagina oficial de GitHub CLI: https://cli.github.com/
