@@ -3,7 +3,7 @@
 * [ ] Clonar un proyecto de GitHub usando la CLI: `gh repo clone user-github/repo-name`
   * Ejm: `gh repo clone difo23/curso-gh-cli`
 * [ ] Clonar un proyecto e inidica la carpeta donde deseas clonarlo: `gh repo clone user-github/repo-name <directory>`
-  * Ejm: `gh repo clone difo23/curso-gh-cli ./nuevor_dir`
+  * Ejm: `gh repo clone difo23/curso-gh-cli ./nuevor_dir`.
 * [ ] Crea un nuevo repo en GitHub: 
   * [ ] Crea una carpeta local para tu proyecto con: `git init gh-create-project`
   * [ ] Luego luego muevete al proyecto creado con: `cd gh-create-project`
